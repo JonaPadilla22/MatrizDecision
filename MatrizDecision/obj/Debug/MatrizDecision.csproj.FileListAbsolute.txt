@@ -1,0 +1,10 @@
+D:\Usuarios\Jonat\source\repos\MatrizDecision\bin\Debug\MatrizDecision.exe.config
+D:\Usuarios\Jonat\source\repos\MatrizDecision\bin\Debug\MatrizDecision.exe
+D:\Usuarios\Jonat\source\repos\MatrizDecision\bin\Debug\MatrizDecision.pdb
+D:\Usuarios\Jonat\source\repos\MatrizDecision\obj\Debug\MatrizDecision.csprojAssemblyReference.cache
+D:\Usuarios\Jonat\source\repos\MatrizDecision\obj\Debug\MatrizDecision.Form1.resources
+D:\Usuarios\Jonat\source\repos\MatrizDecision\obj\Debug\MatrizDecision.Properties.Resources.resources
+D:\Usuarios\Jonat\source\repos\MatrizDecision\obj\Debug\MatrizDecision.csproj.GenerateResource.cache
+D:\Usuarios\Jonat\source\repos\MatrizDecision\obj\Debug\MatrizDecision.csproj.CoreCompileInputs.cache
+D:\Usuarios\Jonat\source\repos\MatrizDecision\obj\Debug\MatrizDecision.exe
+D:\Usuarios\Jonat\source\repos\MatrizDecision\obj\Debug\MatrizDecision.pdb
